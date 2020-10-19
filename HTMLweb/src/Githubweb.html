@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<head>
+    <title>GithubRastreator</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+
+
+<body>
+<div class="container-fluid">
+    <div class="jumbotron">
+        <h1>GithubStalker</h1>
+        <h4>Shhh!</h4>
+    </div>
+
+    <div class="form-group">
+        <label for="usr">Introduce usuario:</label>
+        <input type="text" class="form-control" id="usr">
+    </div>
+    <button type="submit" class="btn btn-Warning" id="bus">Stalkear</button>
+
+
+</div>
+<div class="container-fluid">
+    <h3 id="Titulo">Tabla con resultados</h3>
+    <table class="table" id="tab">
+        <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Seguidores</th>
+            <th>Ciudad</th>
+            <th>Info</th>
+        </tr>
+
+        </thead>
+        <tbody>
+            <tr>
+                <th id="nom">.</th>
+                <th id="seg">.</th>
+                <th id="cit">.</th>
+                <th id="inf">.</th>
+            </tr>
+        </tbody>
+
+    </table>
+</div>
+
+
+</body>
+<script>
+    $('#Titulo').hide();
+    $('#tab').hide();
+    $(document).ready(function () {
+        $('#bus').click(function (){
+
+            var user=$('#usr').val()
+            var url= 'https://api.github.com/users/'+user;
+            $.get(url, function (data) {
+                alert("Done");
+                var nombre=data.name;
+                $('#nom').text(nombre);
+                var follow=data.followers;
+                $('#seg').text(follow);
+                var bios=data.bio;
+                $('#inf').text(bios);
+                var loca=data.location;
+                $('#cit').text(loca);
+                $('#Titulo').show();
+                $('#tab').show();
+            });
+        });
+
+    });
+
+</script>
+</html>
