@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-12-04T16:00:52.764+01:00
+  initializedAtString: 2020-12-04T15:18:03.752+01:00
+  entries:
+  - path: 2Drogue\Assembly-CSharp.csproj
+    fullPath: C:\Users\ajota\Desktop\ex\dsa-1\2Drogue\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 2Drogue\Assembly-CSharp-Editor.csproj
+    fullPath: C:\Users\ajota\Desktop\ex\dsa-1\2Drogue\Assembly-CSharp-Editor.csproj
+    projectPath: Assembly-CSharp-Editor.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 2Drogue\Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: C:\Users\ajota\Desktop\ex\dsa-1\2Drogue\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 2Drogue\Assets\Scripts\Enemy.cs
+    fullPath: C:\Users\ajota\Desktop\ex\dsa-1\2Drogue\Assets\Scripts\Enemy.cs
+    projectPath: Assets\Scripts\Enemy.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 2Drogue\Library\ArtifactDB
+    fullPath: C:\Users\ajota\Desktop\ex\dsa-1\2Drogue\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 2Drogue\Library\Artifacts\3e\3ed3ef2eb9db4c2e98aa680480924586
+    fullPath: C:\Users\ajota\Desktop\ex\dsa-1\2Drogue\Library\Artifacts\3e\3ed3ef2eb9db4c2e98aa680480924586
+    projectPath: Library\Artifacts\3e\3ed3ef2eb9db4c2e98aa680480924586
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: 2Drogue\Library\Artifacts\62\62e9cfa182111cb65a35da70f312ca4e
+    fullPath: C:\Users\ajota\Desktop\ex\dsa-1\2Drogue\Library\Artifacts\62\62e9cfa182111cb65a35da70f312ca4e
+    projectPath: Library\Artifacts\62\62e9cfa182111cb65a35da70f312ca4e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: 2Drogue\Library\Artifacts\6a\6afc9adc7c9bda38e714cd0d7a737331
+    fullPath: C:\Users\ajota\Desktop\ex\dsa-1\2Drogue\Library\Artifacts\6a\6afc9adc7c9bda38e714cd0d7a737331
+    projectPath: Library\Artifacts\6a\6afc9adc7c9bda38e714cd0d7a737331
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 2Drogue\Library\EditorInstance.json
+    fullPath: C:\Users\ajota\Desktop\ex\dsa-1\2Drogue\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: 2Drogue\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\ajota\Desktop\ex\dsa-1\2Drogue\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: 2Drogue\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\ajota\Desktop\ex\dsa-1\2Drogue\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: 2Drogue\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\ajota\Desktop\ex\dsa-1\2Drogue\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: 2Drogue\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\ajota\Desktop\ex\dsa-1\2Drogue\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: 2Drogue\Library\SceneVisibilityState.asset
+    fullPath: C:\Users\ajota\Desktop\ex\dsa-1\2Drogue\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 2Drogue\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\ajota\Desktop\ex\dsa-1\2Drogue\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 2Drogue\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\ajota\Desktop\ex\dsa-1\2Drogue\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 2Drogue\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    fullPath: C:\Users\ajota\Desktop\ex\dsa-1\2Drogue\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 2Drogue\Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    fullPath: C:\Users\ajota\Desktop\ex\dsa-1\2Drogue\Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 2Drogue\Library\SourceAssetDB
+    fullPath: C:\Users\ajota\Desktop\ex\dsa-1\2Drogue\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 2Drogue\Library\StateCache\Hierarchy\46b7a0-mainStage.json
+    fullPath: C:\Users\ajota\Desktop\ex\dsa-1\2Drogue\Library\StateCache\Hierarchy\46b7a0-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\46b7a0-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 2Drogue\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\ajota\Desktop\ex\dsa-1\2Drogue\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: 2Drogue\Temp\UnityLockfile
+    fullPath: C:\Users\ajota\Desktop\ex\dsa-1\2Drogue\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: 2Drogue\Temp\UnityTempFile-5b8996068ddccfd46ac8e2b3d01d4645
+    fullPath: C:\Users\ajota\Desktop\ex\dsa-1\2Drogue\Temp\UnityTempFile-5b8996068ddccfd46ac8e2b3d01d4645
+    projectPath: Temp\UnityTempFile-5b8996068ddccfd46ac8e2b3d01d4645
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: 2Drogue\Temp\UnityTempFile-7c72cefca50c5b041a722bea816205b0
+    fullPath: C:\Users\ajota\Desktop\ex\dsa-1\2Drogue\Temp\UnityTempFile-7c72cefca50c5b041a722bea816205b0
+    projectPath: Temp\UnityTempFile-7c72cefca50c5b041a722bea816205b0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: 2Drogue\Temp\UnityTempFile-af3c5742afe06df4e91306cfd30401dc
+    fullPath: C:\Users\ajota\Desktop\ex\dsa-1\2Drogue\Temp\UnityTempFile-af3c5742afe06df4e91306cfd30401dc
+    projectPath: Temp\UnityTempFile-af3c5742afe06df4e91306cfd30401dc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
